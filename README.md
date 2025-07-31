@@ -25,4 +25,4 @@ Java project using Tess4J to extract text from images and PDF files.
 ![Output](screenshots/terminal-output.png)
 
 ## How to Run
-1. Clone this repo
+https://github.com/BhavanaReddyYadala/Image_OCR_Demo.git
